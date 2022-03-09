@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace D
+
 public class BasketballController : MonoBehaviour {
 
     public float MoveSpeed = 10;
